@@ -21,8 +21,8 @@ flooding_command = None
 DEFAULT_THREADS = 200
 
 
-users = {1761118584}
-keys = {7299114738:AAHf_rPMVq0xVkN284_3k-uMrSCmvh_Hsfs}
+users = {}
+keys = {}
 
 
 def load_data():
